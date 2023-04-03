@@ -1,0 +1,3 @@
+ros-humble-plotjuggler-msgs
+ros-humble-plotjuggler
+ros-humble-plotjuggler-ros
